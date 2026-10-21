@@ -5,9 +5,9 @@
 <p><strong>员工支持中心 · 行政运营** ｜ RoboParty（萝博派对）</strong></p>
 
 <p>
-![Organization](https://img.shields.io/badge/Organization-RoboParty-0052FF?style=flat-square&logo=github)
-![Role](https://img.shields.io/badge/Role-Administration-00B8A9?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Employee%20Support-F3A712?style=flat-square)
+[Organization](https://img.shields.io/badge/Organization-RoboParty-0052FF?style=flat-square&logo=github)
+[Role](https://img.shields.io/badge/Role-Administration-00B8A9?style=flat-square)
+[Focus](https://img.shields.io/badge/Focus-Employee%20Support-F3A712?style=flat-square)
 </p>
 
 >我相信好的行政支持不是"把事情处理完"，而是让被支持的同事感觉不到阻力。为此，我持续学习数字化工具，把重复性工作沉淀为可复用的流程与文档， 通过行政运营与数字化，让每一位同事都能获得更好的支持，从而更高效地投入工作，也让每一项后勤保障都高效、有序、有温度。
