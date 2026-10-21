@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Huan Mi (米欢) 👋</h1>
 
-<p><strong>员工支持中心 · 行政运营** ｜ RoboParty（萝博派对）</strong></p>
+<p><strong>员工支持中心 · 行政运营 ｜ RoboParty（萝博派对）</strong></p>
 
 ![Organization](https://img.shields.io/badge/Organization-RoboParty-0052FF?style=flat-square&logo=github)
 ![Role](https://img.shields.io/badge/Role-Administration-00B8A9?style=flat-square)
