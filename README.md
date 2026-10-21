@@ -34,14 +34,12 @@ Hi there,I'm mihuan126
 
 ## 组织入口 · Organization
 
-- [RoboParty @ GitHub](https://github.com/roboparty)（占位：请替换为组织真实主页链接；若组织暂无公开主页，可改为公司官网链接或删除此行）
+- [RoboParty @ GitHub](https://github.com/roboparty)
 
 ## 联系方式 · Contact
 
-- 邮箱：`you@example.com`（占位：替换为你的邮箱）
-- LinkedIn：`https://www.linkedin.com/in/your-id`（占位）
-- 个人主页：`https://your-site.example.com`（可选，占位）
+- 邮箱：`you@example.com`
+- LinkedIn：`https://www.linkedin.com/in/your-id`
+- 个人主页：`https://your-site.example.com`
 
----
 
-*本主页仅展示公开信息，不涉及公司机密、内部文档与敏感数据。*
